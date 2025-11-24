@@ -192,7 +192,7 @@ We're proud to have a talented team of developers, designers, and healthcare pro
 <img src="https://github.com/MaLB3ndeR.png" width="100px;" alt="Youssef Madkour"/><br />
 <sub><b>Youssef Madkour</b></sub>
 </a><br />
-<sub>💻 Developer</sub>
+<sub>💻 Security Team Member</sub>
 </td>
 </tr>
 <tr>
