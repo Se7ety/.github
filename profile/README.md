@@ -148,7 +148,7 @@ We're proud to have a talented team of developers, designers, and healthcare pro
 <img src="https://github.com/24-mohamedyehia.png" width="100px;" alt="Mohamed Yehia"/><br />
 <sub><b>Mohamed Yehia</b></sub>
 </a><br />
-<sub>💻 Developer & AI/Machine Learning Leader</sub>
+<sub>🤖 AI/DS Leader</sub>
 </td>
 <td align="center" width="150">
 <a href="https://github.com/AbdAlAleem-Hassan">
