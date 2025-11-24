@@ -153,9 +153,9 @@ We're proud to have a talented team of developers, designers, and healthcare pro
 <td align="center" width="150">
 <a href="https://github.com/AbdAlAleem-Hassan">
 <img src="https://github.com/AbdAlAleem-Hassan.png" width="100px;" alt="AbdAlAleem"/><br />
-<sub><b>AbdAlAleem</b></sub>
+<sub><b>Abdalaleem Elsayed</b></sub>
 </a><br />
-<sub>💻 Developer & Backend Team Leader</sub>
+<sub>⚙️ Backend Team Leader</sub>
 </td>
 <td align="center" width="150">
 <a href="https://github.com/yousef-Masoud">
