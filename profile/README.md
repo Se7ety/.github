@@ -132,7 +132,7 @@ We're proud to have a talented team of developers, designers, and healthcare pro
 <img src="https://github.com/Hedra-Nabil.png" width="120px;" alt="Hedra Nabil"/><br />
 <sub><b>Hedra Nabil</b></sub>
 </a><br />
-<sub>👑 Project Leader</sub>
+<sub>👑 Project Manager </sub>
 </td>
 </tr>
 <tr>
