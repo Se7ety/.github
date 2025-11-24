@@ -97,16 +97,11 @@ Leveraging **PostgreSQL** for secure, HIPAA-compliant data storage and advanced 
 
 <div align="center">
 
-### 🌟 Core Contributors
+
 
 We're proud to have a talented team of developers, designers, and healthcare professionals working together to build amazing solutions.
 
 <!-- Contributors will be automatically displayed here when you add them to your repositories -->
-
-<a href="https://github.com/Se7ety/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Se7ety&max=12&columns=6" alt="Contributors" />
-</a>
-
 ### 📊 Team Statistics
 
 <table align="center">
