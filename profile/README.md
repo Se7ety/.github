@@ -60,18 +60,38 @@ Leveraging **PostgreSQL** for secure, HIPAA-compliant data storage and advanced 
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Arsenal
 
-<div align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Backend** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>📱 Mobile Development</h3>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🌐 Web Development</h3>
+      <img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend Development</h3>
+      <img src="https://skillicons.dev/icons?i=dotnet,cs,postman" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🗄️ Database</h3>
+      <img src="https://skillicons.dev/icons?i=postgresql" />
+    </td>
+    <td align="center">
+      <h3>🔧 DevOps & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,figma" />
+    </td>
+    <td align="center">
+      <h3>☁️ Cloud & Services</h3>
+      <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,azure,aws" />
+    </td>
+  </tr>
+</table>
 
 ## 👥 Our Team
 
@@ -92,16 +112,126 @@ We're proud to have a talented team of developers, designers, and healthcare pro
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Team_Members-Growing-success?style=for-the-badge&logo=github" alt="Team Members"/>
+<img src="https://img.shields.io/badge/Team_Members-13-success?style=for-the-badge&logo=github" alt="Team Members"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Active_Projects-Multiple-blue?style=for-the-badge&logo=github" alt="Active Projects"/>
+<img src="https://img.shields.io/badge/Team_Leaders-5-blue?style=for-the-badge&logo=github" alt="Team Leaders"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Code_Quality-High-brightgreen?style=for-the-badge&logo=codacy" alt="Code Quality"/>
 </td>
 </tr>
 </table>
+
+### 👨‍💻 Team Members
+
+<table align="center">
+<tr>
+<td align="center" width="150" colspan="4">
+<a href="https://github.com/Hedra-Nabil">
+<img src="https://github.com/Hedra-Nabil.png" width="120px;" alt="Hedra Nabil"/><br />
+<sub><b>Hedra Nabil</b></sub>
+</a><br />
+<sub>👑 Project Leader</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<a href="https://github.com/Tahamohamed11">
+<img src="https://github.com/Tahamohamed11.png" width="100px;" alt="Taha Mohamed"/><br />
+<sub><b>Taha Mohamed</b></sub>
+</a><br />
+<sub>💻 Developer & Database Team Leader</sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/24-mohamedyehia">
+<img src="https://github.com/24-mohamedyehia.png" width="100px;" alt="Mohamed Yehia"/><br />
+<sub><b>Mohamed Yehia</b></sub>
+</a><br />
+<sub>💻 Developer & AI/Machine Learning Leader</sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/AbdAlAleem-Hassan">
+<img src="https://github.com/AbdAlAleem-Hassan.png" width="100px;" alt="AbdAlAleem"/><br />
+<sub><b>AbdAlAleem</b></sub>
+</a><br />
+<sub>💻 Developer & Backend Team Leader</sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/yousef-Masoud">
+<img src="https://github.com/yousef-Masoud.png" width="100px;" alt="Yousef Masoud"/><br />
+<sub><b>Yousef Masoud</b></sub>
+</a><br />
+<sub>💻 Developer</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<a href="https://github.com/AhmedElgendy2004">
+<img src="https://github.com/AhmedElgendy2004.png" width="100px;" alt="Ahmed Elgendy"/><br />
+<sub><b>Ahmed Elgendy</b></sub>
+</a><br />
+<sub>💻 Developer & Mobile Application Team Leader</sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/ahmedomar11345">
+<img src="https://github.com/ahmedomar11345.png" width="100px;" alt="Ahmed Omar"/><br />
+<sub><b>Ahmed Omar</b></sub>
+</a><br />
+<sub>💻 Developer</sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/hanymahm0ud">
+<img src="https://github.com/hanymahm0ud.png" width="100px;" alt="Hany Mahmoud"/><br />
+<sub><b>Hany Mahmoud</b></sub>
+</a><br />
+<sub>💻 Developer & Security Team Leader</sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/MaLB3ndeR">
+<img src="https://github.com/MaLB3ndeR.png" width="100px;" alt="Youssef Madkour"/><br />
+<sub><b>Youssef Madkour</b></sub>
+</a><br />
+<sub>💻 Developer</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<a href="https://github.com/mansourayman">
+<img src="https://github.com/mansourayman.png" width="100px;" alt="mansourayman"/><br />
+<sub><b>mansourayman</b></sub>
+</a><br />
+<sub>💻 Developer</sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/mhamdashraf">
+<img src="https://github.com/mhamdashraf.png" width="100px;" alt="mhamdashraf"/><br />
+<sub><b>mhamdashraf</b></sub>
+</a><br />
+<sub>💻 Developer</sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/nagham959">
+<img src="https://github.com/nagham959.png" width="100px;" alt="Nagham Elsorady"/><br />
+<sub><b>Nagham Elsorady</b></sub>
+</a><br />
+<sub>💻 Developer & Web Team Leader</sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/Nermeenkamal1">
+<img src="https://github.com/Nermeenkamal1.png" width="100px;" alt="Nermeenkamal1"/><br />
+<sub><b>Nermeenkamal1</b></sub>
+</a><br />
+<sub>💻 Developer</sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**💡 Want to join our team?** Check out our [contributing guidelines](https://se7ety.github.io/Guide_repo/) and start contributing!
+
+</div>
 
 </div>
 
@@ -194,7 +324,7 @@ graph LR
 | 🔧 Development Guidelines | ✅ Complete |
 | 🚀 First Production Release | 🔄 In Progress |
 | 🌟 100+ Commits | 🎯 Goal |
-| 👥 10+ Contributors | 🎯 Goal |
+| 👥 10+ Contributors | ✅ Achieved |
 
 </div>
 
@@ -225,7 +355,7 @@ We welcome contributions from all team members! Here's how you can contribute:
 Have questions? Want to collaborate? Reach out to us!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Se7ety-181717?style=for-the-badge&logo=github)](https://github.com/Se7ety)
-[![Email](https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Website](https://img.shields.io/badge/Website-Guide-8b5cf6?style=for-the-badge&logo=github)](https://se7ety.github.io/Guide_repo/)
 
 </div>
 
