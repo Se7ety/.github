@@ -103,8 +103,8 @@ We're proud to have a talented team of developers, designers, and healthcare pro
 
 <!-- Contributors will be automatically displayed here when you add them to your repositories -->
 
-<a href="https://github.com/Se7ety/Guide_repo/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Se7ety/Guide_repo&max=12&columns=6" alt="Contributors" />
+<a href="https://github.com/Se7ety/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Se7ety&max=12&columns=6" alt="Contributors" />
 </a>
 
 ### 📊 Team Statistics
