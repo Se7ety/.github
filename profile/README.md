@@ -8,7 +8,7 @@
 
 [![Organization Guide](https://img.shields.io/badge/📚_Organization-Guide-8b5cf6?style=for-the-badge)](https://se7ety.github.io/Guide_repo/)
 [![Git Workflow](https://img.shields.io/badge/⚡_Git-Workflow-06b6d4?style=for-the-badge)](https://se7ety.github.io/Guide_repo/#git-guide)
-[![Contributors](https://img.shields.io/github/contributors/Se7ety/Guide_repo?style=for-the-badge&color=success)](https://github.com/Se7ety/Guide_repo/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/Se7ety/Guide_repo?style=for-the-badge&color=success)](https://github.com/Se7ety/profile/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/Se7ety?style=for-the-badge&color=yellow)](https://github.com/Se7ety)
 
 </div>
