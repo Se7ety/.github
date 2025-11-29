@@ -292,7 +292,7 @@ Follow these steps to get started:
 We follow industry-standard practices to ensure code quality and team collaboration:
 
 ```mermaid
-graph LR
+graph TD
     A[Feature Request] --> B[Create Branch]
     B --> C[Develop]
     C --> D[Commit]
