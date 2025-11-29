@@ -368,8 +368,14 @@ Have questions? Want to collaborate? Reach out to us!
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se7ety&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se7ety&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Se7ety&layout=compact&theme=radical)
+
+### 📌 Pinned Repositories
+
+<a href="https://github.com/Se7ety/Guide_repo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Se7ety&repo=Guide_repo&theme=radical" />
+</a>
 
 </div>
 
@@ -379,11 +385,15 @@ Have questions? Want to collaborate? Reach out to us!
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 📱 **Patient App** | Mobile app for patient management | Flutter, .NET | 🔄 Active |
-| 🌐 **Admin Portal** | Web-based admin dashboard | React, PostgreSQL | 🔄 Active |
-| ⚕️ **Medical Records** | Electronic health records system | .NET, PostgreSQL | 🔄 Active |
-| 🔧 **API Gateway** | Centralized API management | .NET, Docker | 🔄 Active |
+| 📱 **Patient App** | Mobile app for patient management | Flutter, Dart | 🔄 Active |
+| 👨‍⚕️ **Doctor App** | Mobile app for doctors | C++ | 🔄 Active |
+| 🌐 **Admin Portal** | Web-based admin dashboard | Flutter Web, React, PostgreSQL | 🔄 Active |
+| 💻 **Website** | Official organization website | React | 🔄 Active |
+| ⚕️ **Sehety API** | Core Backend API | .NET, C# | 🔄 Active |
 | 🤖 **Medical Agent** | AI-powered medical assistant | Python, FastAPI, LLM | 🔄 Active |
+| 🎧 **Support Agent** | AI Customer Support Agent | Python, AI | 🔄 Active |
+| 🗄️ **Database** | Centralized Data Storage | PostgreSQL | 🔄 Active |
+| 📚 **Guide** | Organization Documentation | HTML | 🔄 Active |
 
 </div>
 
