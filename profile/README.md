@@ -91,6 +91,12 @@ Leveraging **PostgreSQL** for secure, HIPAA-compliant data storage and advanced 
       <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,azure,aws" />
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <h3>🤖 AI & Data Science</h3>
+      <img src="https://skillicons.dev/icons?i=python,fastapi" />
+    </td>
+  </tr>
 </table>
 
 ## 👥 Our Team
@@ -100,6 +106,10 @@ Leveraging **PostgreSQL** for secure, HIPAA-compliant data storage and advanced 
 
 
 We're proud to have a talented team of developers, designers, and healthcare professionals working together to build amazing solutions.
+
+<a href="https://github.com/Se7ety/profile/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Se7ety/profile" />
+</a>
 
 <!-- Contributors will be automatically displayed here when you add them to your repositories -->
 ### 📊 Team Statistics
@@ -359,6 +369,7 @@ Have questions? Want to collaborate? Reach out to us!
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se7ety&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Se7ety&layout=compact&theme=radical)
 
 ### 📈 Activity Overview
 
@@ -376,6 +387,7 @@ Have questions? Want to collaborate? Reach out to us!
 | 🌐 **Admin Portal** | Web-based admin dashboard | React, PostgreSQL | 🔄 Active |
 | ⚕️ **Medical Records** | Electronic health records system | .NET, PostgreSQL | 🔄 Active |
 | 🔧 **API Gateway** | Centralized API management | .NET, Docker | 🔄 Active |
+| 🤖 **Medical Agent** | AI-powered medical assistant | Python, FastAPI, LLM | 🔄 Active |
 
 </div>
 
