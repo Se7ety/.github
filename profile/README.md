@@ -107,8 +107,8 @@ Leveraging **PostgreSQL** for secure, HIPAA-compliant data storage and advanced 
 
 We're proud to have a talented team of developers, designers, and healthcare professionals working together to build amazing solutions.
 
-<a href="https://github.com/Se7ety/profile/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Se7ety/profile" />
+<a href="https://github.com/Se7ety/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Se7ety/.github" />
 </a>
 
 <!-- Contributors will be automatically displayed here when you add them to your repositories -->
@@ -368,12 +368,8 @@ Have questions? Want to collaborate? Reach out to us!
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se7ety&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se7ety&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Se7ety&layout=compact&theme=radical)
-
-### 📈 Activity Overview
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Se7ety&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
