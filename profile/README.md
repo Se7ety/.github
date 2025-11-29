@@ -386,14 +386,14 @@ Have questions? Want to collaborate? Reach out to us!
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 📱 **Patient App** | Mobile app for patient management | Flutter, Dart | 🔄 Active |
-| 👨‍⚕️ **Doctor App** | Mobile app for doctors | C++ | 🔄 Active |
-| 🌐 **Admin Portal** | Web-based admin dashboard | Flutter Web, React, PostgreSQL | 🔄 Active |
+| 👨‍⚕️ **Doctor App** | Mobile app for doctors | Flutter, Dart | 🔄 Active |
+| 🌐 **Admin Portal** | Web-based admin dashboard | Flutter Web, React | 🔄 Active |
 | 💻 **Website** | Official organization website | React | 🔄 Active |
 | ⚕️ **Sehety API** | Core Backend API | .NET, C# | 🔄 Active |
 | 🤖 **Medical Agent** | AI-powered medical assistant | Python, FastAPI, LLM | 🔄 Active |
 | 🎧 **Support Agent** | AI Customer Support Agent | Python, AI | 🔄 Active |
 | 🗄️ **Database** | Centralized Data Storage | PostgreSQL | 🔄 Active |
-| 📚 **Guide** | Organization Documentation | HTML | 🔄 Active |
+
 
 </div>
 
